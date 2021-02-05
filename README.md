@@ -10,6 +10,10 @@
 
  ## My Skillset
  - PHP
+   - supervised
+      - types
+   - unsupervised
+     - types
  - Python
  - Java
  - C
