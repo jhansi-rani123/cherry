@@ -62,7 +62,7 @@ how to initailze github project
 - [ ] git remote
 - [ ] git status
 
------python
+''''python
 a=3
 b=4
 sum=a+b
