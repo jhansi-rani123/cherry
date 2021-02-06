@@ -63,7 +63,7 @@ how to initailze github project
 - [ ] git status
 
 '''' python
-a=3
-b=4
-sum=a+b
- print("the sum values are:",sum)
+def add(a,b)
+   print("the sum values are:",sum)
+add(2,4)
+````````
