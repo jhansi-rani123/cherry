@@ -46,11 +46,12 @@ sno | name | id | college
 :sweat:
 :joy:
 <hr>
-smile
+:smile:
+<hr>
 
 
 how to initailze github project
-[] git add .
-[] git init
-[] git remote
-[] git status
+- [ ] git add .
+- [x] git init
+- [ ] git remote
+- [ ] git status
