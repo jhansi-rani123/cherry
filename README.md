@@ -1,4 +1,5 @@
 # cherry
+
 MCA
 =======
 
@@ -60,3 +61,9 @@ how to initailze github project
 - [x] git init
 - [ ] git remote
 - [ ] git status
+
+-----python
+a=3
+b=4
+sum=a+b
+ print("the sum values are:",sum)
