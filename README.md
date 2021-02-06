@@ -30,6 +30,6 @@ ____
 5. Bottle
 ____
 
-[APSSDC](https://appssdc.in)
+[APSSDC](https://apssdc.in)
 
 [SACET](http://sacet.ac.in)
