@@ -34,9 +34,23 @@ ____
 
 [SACET](http://sacet.ac.in)
 
-sno | name | id
-----|------|-----
-1 | janu | 101
-2 | janaki | 102
-3 | srtinu | 103
-4 | kala | 104
+sno | name | id | college
+----|------|-----|-------
+1 | janu | 101 | sacet
+2 | janaki | 102 | sacet
+3 | srtinu | 103 | sacet
+4 | kala | 104 |anu
+
+:smile:
+:Wink:
+:sweat:
+:joy:
+<hr>
+smile
+
+
+how to initailze github project
+[] git add .
+[] git init
+[] git remote
+[] git status
