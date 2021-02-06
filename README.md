@@ -64,6 +64,6 @@ how to initailze github project
 
 '''' python
 def add(a,b)
-   print("the sum values are:",sum)
+   print("The addition of a and b is:")
 add(2,4)
 ````````
