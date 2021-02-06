@@ -32,4 +32,4 @@ ____
 
 [APSSDC](https://appssdc.in)
 
-[SACET](https://sacet.ac.in)
+[SACET](http://sacet.ac.in)
