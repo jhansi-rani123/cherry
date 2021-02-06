@@ -21,7 +21,6 @@
  - Flask Framework
 
 ___
-
 ## Framework
 1. Flask
 2. Django
