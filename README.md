@@ -62,8 +62,8 @@ how to initailze github project
 - [ ] git remote
 - [ ] git status
 
-'''' python
+``````` python
 def add(a,b)
    print("The addition of a and b is:")
   add(2,4)
-````````
+````````````
