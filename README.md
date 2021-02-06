@@ -42,7 +42,7 @@ sno | name | id | college
 4 | kala | 104 |anu
 
 :smile:
-:Wink:
+:wink:
 :sweat:
 :joy:
 <hr>
