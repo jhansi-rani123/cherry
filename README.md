@@ -39,3 +39,4 @@ sno | name | id
 1 | janu | 101
 2 | janaki | 102
 3 | srtinu | 103
+4 | kala | 104
