@@ -67,3 +67,11 @@ def add(a,b)
    print("The addition of a and b is:")
   add(2,4)
 ````````````
+``````` c
+ # include <stdio.h>
+ # include <conio.h>
+ void main()
+ {
+ printf("hello world")
+ }
+ `````````
